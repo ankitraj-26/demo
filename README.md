@@ -1,3 +1,4 @@
 # demo
-This is a Demo for Git &amp; Github class repository
+This is a Demo for Git &amp; Github class repository.
+<br>
 Author :- Ankit Raj
